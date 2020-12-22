@@ -1,0 +1,53 @@
+img{
+    border-radius:50%;
+     height: 250px;
+    width: 200px
+}
+#intro{
+    background: linear-gradient(blue,yellow);
+    width: 100%;
+    height: 100%;
+    padding-top:200px;
+}
+body{
+    text-align: center;
+    margin: 0px;
+}
+#heading1{
+    color: crimson;
+    font-family: cursive;
+}
+p{
+    font-size: 20px;
+    font-family: inherit;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.line{
+    background-color: black;
+    height: 5px;
+    width:70px;
+    margin:20px auto;
+}
+h1{
+    padding-top: 50px;
+    font-size:50px;
+}
+#outer{
+    list-style: none;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+}
+.inner{
+    float:left;
+    padding:5px;
+    background-color: aquamarine;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:coral;
+}
