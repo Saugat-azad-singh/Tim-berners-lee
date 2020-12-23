@@ -1,10 +1,10 @@
 img{
     border-radius:50%;
      height: 250px;
-    width: 200px
+    width: 250px
 }
 #intro{
-    background: linear-gradient(blue,yellow);
+    background: linear-gradient(aqua,pink);
     width: 100%;
     height: 100%;
     padding-top:200px;
@@ -35,7 +35,7 @@ h1{
 }
 #outer{
     list-style: none;
-    position: absolute;
+    position:absolute;
     top: 5px;
     right: 10px;
     cursor: pointer;
